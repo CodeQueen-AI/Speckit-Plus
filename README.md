@@ -207,5 +207,81 @@ Claude is an *AI assistant for coding and development*, capable of *understandin
 
 
 
+# 11️⃣ *Speckit Plus Installation & Setup*
+
+*Install via Python pip:*
+```bash
+pip install specifyplus
+````
+
+*Install via UV tool:*
+
+```bash
+uv tool install specifyplus
+```
+
+*Check version:*
+
+```bash
+specifyplus --version
+```
+
+*Initialize a project:*
+
+```bash
+specifyplus init .
+# or the shorthand
+sp init .
+```
+
+*Check Speckit Plus status:*
+
+```bash
+sp check
+```
+
+
+
+# 12️⃣ *Shells & Terminals*
+
+1-*sh (Bash)*
+`sh` refers to the **Bourne shell**, a command-line interpreter in Unix/Linux systems
+*Why it is used:* It executes shell commands, runs scripts, manages files, and allows developers to interact with the operating system efficiently
+
+2-*ps (PowerShell)*
+`ps` refers to **PowerShell**, a command-line shell and scripting environment in Windows
+*Why it is used:* It automates administrative tasks, runs scripts and manages system configurations using **cmdlets and pipelines**
+
+
+
+
+
+# 13️⃣ *Speckit Plus Specification Commands*
+
+*Once the project is initialized, you can write your full specification using these commands*
+
+| Command            | Purpose                                                                       |
+| ------------------ | ----------------------------------------------------------------------------- |
+| `/sp.constitution` | Defines the **overall structure and vision** of the project               |
+| `/sp.specify`      | Specifies **detailed requirements** for features and modules.                 |
+| `/sp.plan`         | Creates a **step-by-step plan** for development and execution.                |
+| `/sp.tasks`        | Lists **individual tasks** to be performed by the AI or team.                 |
+| `/sp.implements`   | Defines **implementation details**, such as frameworks, libraries, or APIs.   |
+| `/sp.clarify`      | Provides **clarifications or edge case handling** for ambiguous requirements. |
+| `/sp.analyze`      | Performs **analysis** of requirements, risks, and dependencies.               |
+| `/sp.checklist`    | Generates a **checklist** to ensure all specifications are covered.           |
+
+✅ *Using these commands, you can write a **complete, structured specification** that the AI can follow to generate code and orchestrate multi-agent tasks effectively*
+
+
+# 14️⃣ *Origins*
+
+* **Speckit:** Discovered and initially developed by **GitHub** for spec-driven development
+
+
+* **Speckit Plus:** Enhanced and maintained by **Panaversity**, providing advanced features for **multi-agent AI systems** and Vibe-Coding
+
+
+
 
 
