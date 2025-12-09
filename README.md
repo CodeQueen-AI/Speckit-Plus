@@ -164,6 +164,48 @@ A specification is a **detailed description of what a system, feature or softwar
 
 
 
+# 7️⃣ *Speckit Plus: Enhanced Spec-Driven Vibe-Coding*
+Speckit Plus enables *Spec-driven Vibe-coding* by combining the *rapid, conversational generation power of "vibe coding"* with the *structure and architectural coherence of Spec-Driven Development* 
+It is an enhanced **Spec-Driven Development toolkit** with **patterns, templates and reference projects** for building **scalable multi-agent AI systems** It is a practical fork of `github/spec-kit` for **agentic AI system development**
+
+**Key Features:**  
+* Provides **patterns and templates** for distributed multi-agent apps
+
+
+* Supports **OpenAI Agents SDK, MCP, A2A**, and a cloud-native runtime stack: Docker, Kubernetes, Dapr (Actors & Workflows), and Ray
+
+
+* Lets you **define specs, spin up services, orchestrate agents, and ship production-ready stacks** faster
+
+ 
+* Offers **guardrails and CI-friendly scaffolds** for safer development
+   
+
+**Usage with Gemini CLI and Claude**  
+Speckit Plus allows projects to be built using **Gemini CLI** and **Claude**, setting up environments and connecting to AI services for development
+
+
+
+# 8️⃣ *Gemini CLI* 
+Gemini CLI is a *command-line interface tool* that allows developers to *interact with AI systems, generate code and manage projects* directly from the terminal It connects your system to AI services for spec-driven development
+
+
+
+# 9️⃣ *Claude*
+Claude is an *AI assistant for coding and development*, capable of *understanding specifications and generating accurate code* It connects with systems like Gemini CLI to help build scalable AI applications
+
+
+
+# 10️⃣ *GPT Local vs Gemini/Claude*
+*GPT Local:* Does not run natively on your system; it requires external access
+
+*Gemini CLI / Claude:* Connect to AI services from your system, enabling **spec-driven projects** without hosting the model locally
+
+
+*Integration:* Gemini CLI and Claude act as bridges, connecting your development environment to AI services while respecting specifications
+
+
+
 
 
 
