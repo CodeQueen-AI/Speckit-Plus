@@ -87,3 +87,47 @@ AI Native Development means *embedding AI directly into software or applications
 
 We are creating an *AI collaboration partner* similar to **Claude Code, Gemini CLI, and Qwen** These are *comprehensive AI tools designed for coding* helping developers generate code, automate tasks and collaborate efficiently
 
+
+
+
+
+
+
+
+# 3️⃣  Spec Driven Development (SDD) 📝
+Spec Driven Development is a *software development approach where developers build applications strictly according to a set of predefined specifications* Every feature, functionality and behavior is guided by these specifications
+
+*Why it is used:*
+
+* Ensures **clarity and consistency** in what needs to be built
+
+  
+* Reduces **errors and misunderstandings** between developers, designers and stakeholders
+
+
+* Improves **efficiency** as developers have a clear blueprint to follow
+
+
+* Facilitates **collaboration** with AI tools or teams since instructions are precise
+
+
+
+**Key Points:**
+
+* Development starts with **clear specifications** (what the system should do)
+
+
+* Code, design, and tests are all aligned with the specifications
+
+
+* Changes or updates are easier to manage because they are made against the spec
+
+
+* Often used with **AI-driven development** where the AI executes tasks exactly according to the specs
+
+
+
+**Example:**
+
+* A team defines that a **login page** must have username, password fields, validation and a “forgot password” link Developers (or an AI tool) implement it **exactly according to this specification**
+* AI code generators like **Gemini CLI** can take detailed specs and build functional modules automatically
