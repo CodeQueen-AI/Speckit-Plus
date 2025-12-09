@@ -90,11 +90,7 @@ We are creating an *AI collaboration partner* similar to **Claude Code, Gemini C
 
 
 
-
-
-
-
-# 3️⃣  Spec Driven Development (SDD) 📝
+# 3️⃣  *Spec Driven Development (SDD)* 📝
 Spec Driven Development is a *software development approach where developers build applications strictly according to a set of predefined specifications* Every feature, functionality and behavior is guided by these specifications
 
 *Why it is used:*
@@ -131,3 +127,43 @@ Spec Driven Development is a *software development approach where developers bui
 
 * A team defines that a **login page** must have username, password fields, validation and a “forgot password” link Developers (or an AI tool) implement it **exactly according to this specification**
 * AI code generators like **Gemini CLI** can take detailed specs and build functional modules automatically
+
+
+
+
+
+
+
+# 4️⃣ *SpecKit*
+SpecKit refers to tools or platforms that **help create, manage, or utilize specifications** in software development They guide developers or AI in building exactly what is required
+
+
+# 5️⃣ *Specification*
+A specification is a **detailed description of what a system, feature or software should do** including requirements, behavior, inputs, outputs, and constraints
+
+
+
+# 6️⃣ *Specification Tools*
+
+
+* *Gemini CLI* – AI tool that generates code based on specs
+
+
+* *Swagger / OpenAPI* – Defines API specifications for developers
+
+
+* *Figma / UI Specs* – Provides design specifications for UI elements
+
+
+* *SpecFlow* – For writing behavior-driven development specifications
+
+
+* *Jira / Confluence* – Can be used to document and manage specifications
+
+
+
+
+
+
+
+
