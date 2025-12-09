@@ -83,3 +83,7 @@ AI Native Development means *embedding AI directly into software or applications
 
 * A chatbot on a website that helps users navigate or answer queries
 * Recommendation systems in e-commerce apps
+
+
+We are creating an *AI collaboration partner* similar to **Claude Code, Gemini CLI, and Qwen** These are *comprehensive AI tools designed for coding* helping developers generate code, automate tasks and collaborate efficiently
+
